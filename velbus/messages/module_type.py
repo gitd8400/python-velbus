@@ -29,7 +29,8 @@ MODULE_DIRECTORY = {
     0x18: 'VMB2PBN',
     0x1d: 'VMB2BLE',
     0x21: 'VMBGPO',
-    0x22: 'VMB7IN'
+    0x22: 'VMB7IN',
+    0x2c: 'VMBPIRO'
 }
 
 class ModuleTypeMessage(velbus.Message):
