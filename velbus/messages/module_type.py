@@ -26,6 +26,9 @@ MODULE_DIRECTORY = {
     0x15: 'VMBDMI',
     0x16: 'VMB8PBU',
     0x17: 'VMB6PBN',
+    0x18: 'VMB2PBN',
+    0x1d: 'VMB2BLE',
+    0x21: 'VMBGPO',
     0x22: 'VMB7IN'
 }
 
